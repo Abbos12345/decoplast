@@ -152,6 +152,7 @@ header{
 
   .header__content{
     width: 100%;
+    height: 100%;
   }
 
 
@@ -180,13 +181,9 @@ header{
 
 @media screen and (max-width: 480px){
 
-  header{
-    width: 100%;
-    height: 100%;
-  }
-
   .header__content{
     width: 100%;
+    height: 100%;
   }
 
   .header__content-nav > ul{
@@ -207,3 +204,4 @@ header{
 
 
 }
+
